@@ -1,0 +1,1 @@
+flag{Yes_this_is_right_flag}
